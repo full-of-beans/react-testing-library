@@ -1,7 +1,3 @@
-# react-testing-library-course
-
-_Course material for testing React components using react-testing-library_
-
 <h1 align="center">
   react-testing-library
 </h1>
